@@ -1,0 +1,1 @@
+rmagick -v '>= 2.12.2' -s http://gemcutter.org
