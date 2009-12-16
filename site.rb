@@ -1,7 +1,7 @@
+require 'RMagick'
 require 'rubygems'
 require 'sinatra'
 require 'haml'
-require 'rmagick'
 include Magick
 
 def transform_image(image)
